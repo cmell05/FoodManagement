@@ -23,6 +23,5 @@ Community Plate is a platform designed to facilitate the donation and request of
 ### Installation
 
 1. Clone the repository:
-   ```bash
 **   git clone https://github.com/cmell05/foodmanagement.git
    cd foodmanagement**
